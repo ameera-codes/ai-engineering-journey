@@ -1,40 +1,55 @@
-# Day 1 — September 7, 2026
+# Day 1 — AI Engineering Journey
 
-## 🎯 My Goal
+## 🎯 Goal
 
-Become an AI Engineer who can build useful AI-powered applications.
+Start my transition from Software Developer to AI Engineer.
 
-## 💻 My Current Skills
+## 📚 What I Learned
 
-- Odoo Development
-- Python
-- JavaScript
-- Git & GitHub
-- Software Development
+### 1. What is an API?
 
-## 📚 September Goal
+An API (Application Programming Interface) allows two software systems to communicate with each other.
 
-Build my first AI application.
+For example:
 
-## 🚀 Long-Term Goal
+Python → API → AI Model → Response
 
-Become an AI Engineer, build real AI products, and eventually create my own AI-based business.
+### 2. What is JSON?
 
-## 🧠 Today's Learning
+JSON is a common format used to exchange structured data between applications.
 
-- What is an API?
-- What is JSON?
-- What is an API request?
-- What is an API key?
-- How Python communicates with an AI model
+Example:
+
+{
+  "name": "Ameera",
+  "goal": "AI Engineer"
+}
+
+### 3. What is an API Request?
+
+An API request is a message sent from one application to another asking it to perform an action or return information.
+
+### 4. What is an API Key?
+
+An API key is a secret credential used to authenticate an application when accessing an API.
+
+API keys should never be uploaded to GitHub.
+
+### 5. How Python Can Communicate With AI
+
+Python can send a request to an AI API and receive the model's response.
+
+This will allow me to build AI-powered applications.
 
 ## 🛠️ Today's Progress
 
 - Created my AI Engineering Journey repository
-- Set up my learning folder structure
-- Learned the basics of APIs and JSON
+- Created folders for notes, Python, and projects
+- Learned the basics of APIs
+- Learned the basics of JSON
+- Learned how AI APIs work conceptually
 
-## ✨ Reflection
+## 💭 Reflection
 
 Today I officially started my AI Engineering journey.
 
